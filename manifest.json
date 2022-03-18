@@ -1,9 +1,7 @@
 {
-    "name": "ExampleMod",
-    "version_number": "0.0.1",
-    "website_url": "",
-    "description": "Example mod",
-    "dependencies": [
-        "Username-Modname-1.5.0"
-    ]
+  "name": "SpTicks",
+  "version_number": "1.0.1",
+  "description": "Replaces the multiplayer tick model with the tick model from singleplayer",
+  "website_url":  "https://github.com/FromWau/SpTicks",
+  "dependencies": []
 }
